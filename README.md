@@ -2,6 +2,7 @@
 
 The player can get the bonus by throwing the chips, as long as the number of their points exceeds the opponent and does not exceed twenty-one points. 
 
+![Alt text](https://github.com/appdev-supports/Wild-baccarat-BlackJack21/blob/appdev-supports-patch-1/img01.jpg)
 
 
 Framework
