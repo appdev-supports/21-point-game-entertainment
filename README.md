@@ -1,4 +1,4 @@
-# Wild-baccarat-BlackJack21
+# Classic Poker BlackJack21
 
 The classic baccarat Black Jack 21 point game is a simple and fun game, the game interface is simple, simple and easy to operate.
 After starting the game, you first enter the home page of the game and click the start button to enter the home page of the game.
