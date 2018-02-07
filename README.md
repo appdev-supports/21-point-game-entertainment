@@ -1,8 +1,8 @@
 # Wild-baccarat-BlackJack21
 
-The wild baccarat 21 point game is a simple and fun game, the game interface is simple and simple, easy to operate.
-After starting the game, first enter the home page of the game and click the PLAY button to enter the home page of the game.
-First click on the note or choose the corresponding chips to make a note, after the next note to the card; choose the card button, and then take a card. Players (including players and makers) are able to play cards as long as the number of cards added to the hand is not more than 21 points. Stop cards and no longer take cards. In any case, the player may choose to stop the card. Double bet, game player after getting the first two cards, can be with original wager equal stakes (if less doubles), then can get a card. If you get 21 points, you are not allowed to double the bet.
+The classic baccarat Black Jack 21 point game is a simple and fun game, the game interface is simple, simple and easy to operate.
+After starting the game, you first enter the home page of the game and click the start button to enter the home page of the game.
+First click on the note or choose the corresponding chips to make a note, after the next note to the card; choose to take the card button, and then take a card. The player (including the player and the dealer) takes the card as long as the number of cards added to the hand is not more than 21 points. Stop cards and no longer take cards. In any case, the player may choose to stop taking the card. Double bet, game player after getting the first two cards, can be with original wager equal stakes (if less doubles), then can get a card. If you get 21 points, you are not allowed to double the bet.
 This is a simple and fun single game. Let's play it!
 
 ![Alt text](https://github.com/appdev-supports/Wild-baccarat-BlackJack21/blob/appdev-supports-patch-1/img01.jpg)
