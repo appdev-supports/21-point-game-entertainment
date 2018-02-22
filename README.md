@@ -1,9 +1,10 @@
-# Happy BlackJack Poker
+# Happy version of BlackJack21
 
-Happy baccarat Black Jack 21 point game is a simple and fun, simple and easy to operate the game interface.
+Classic baccarat Black Jack 21 point game is a simple and fun, simple and easy to operate, simple operation of the single game.
 After starting the game, you first enter the home page of the game and click the start button to enter the home page of the game.
 First click on the note or choose the corresponding chips to make a note, after the next note to the card; choose to take the card button, and then take a card. The player (including the player and the dealer) takes the card as long as the number of cards added to the hand is not more than 21 points. Stop cards and no longer take cards. In any case, the player may choose to stop taking the card. Double bet, game player after getting the first two cards, can be with original wager equal stakes (if less doubles), then can get a card. If you get 21 points, you are not allowed to double the bet.
-This is a simple and fun single game, you can download the experience!
+In the game, the player can get the bonus by throwing the chips, as long as the number of their points exceeds the opponent and does not exceed twenty-one points.
+This is a simple and fun single game. Let's play it!
 
 
 ![Alt text](https://github.com/appdev-supports/ClassicPoker-BlackJack21/blob/appdev-supports-patch-1/IMG02.jpg)
