@@ -1,10 +1,8 @@
-# Dreamy Black Jack
+# 21-point-game-entertainment
 
-Dreamy Black Jack 21 point game is a simple and fun, simple and easy to operate, simple operation of the single game.
+Classic Black Jack 21 est le pays le plus populaire, plus amusant, jeu de poker plus excitant.C'est une règle simple, facile à utiliser et stratégique, excitant.Nous aussi soigneusement préparé pour vous un drôle de jeu, où vous pouvez sentir l'expérience la plus vraie, de règles de jeu de casino et vraiment.
 
-In the game, the player can get the bonus by throwing the chips, as long as the number of their points exceeds the opponent and does not exceed twenty-one points.
-
-This is a simple and fun single game. Let's play it!
+Dans le jeu, le joueur par lancer de jetons, aussi longtemps que son adversaire de points de plus et ne dépasse pas le blackjack, peut obtenir des jetons de bonus!
 
 
 ![Alt text](https://github.com/appdev-supports/ClassicPoker-BlackJack21/blob/appdev-supports-patch-1/IMG02.jpg)
