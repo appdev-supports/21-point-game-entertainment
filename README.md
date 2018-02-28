@@ -5,11 +5,16 @@
 游戏中，玩家通过投掷筹码，只要自己的点数超过对手并且没有超过二十一点，即可获取筹码奖励哦！
 
 
-![Alt text](https://github.com/appdev-supports/ClassicPoker-BlackJack21/blob/appdev-supports-patch-1/IMG01.jpg)
+![Alt text](https://github.com/appdev-supports/21-point-game-entertainment/blob/appdev-supports-patch-1/1.jpg)
 
-![Alt text](https://github.com/appdev-supports/ClassicPoker-BlackJack21/blob/appdev-supports-patch-1/IMG02.jpg)
+![Alt text](https://github.com/appdev-supports/21-point-game-entertainment/blob/appdev-supports-patch-1/2.jpg)
 
-![Alt text](https://github.com/appdev-supports/ClassicPoker-BlackJack21/blob/appdev-supports-patch-1/IMG03.jpg)
+![Alt text](https://github.com/appdev-supports/21-point-game-entertainment/blob/appdev-supports-patch-1/3.jpg)
+
+![Alt text](https://github.com/appdev-supports/21-point-game-entertainment/blob/appdev-supports-patch-1/4.jpg)
+
+![Alt text](https://github.com/appdev-supports/21-point-game-entertainment/blob/appdev-supports-patch-1/5.jpg)
+
 
 
 Framework
