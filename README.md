@@ -1,9 +1,11 @@
-# 21-point-game-entertainment
+# Classic BlackJack - fun and game
 
-Classic Black Jack 21 est le pays le plus populaire, plus amusant, jeu de poker plus excitant.C'est une règle simple, facile à utiliser et stratégique, excitant.Nous aussi soigneusement préparé pour vous un drôle de jeu, où vous pouvez sentir l'expérience la plus vraie, de règles de jeu de casino et vraiment.
+21点黑杰克是全世界最流行、最好玩、最刺激的扑克游戏。它规则简单，易于上手，同时又富有策略性，刺激好玩。除了依靠好运气外，玩家之间需要斗智斗勇，比技术比手腕。不管您是一点规则都不懂的新手，还是追求刺激的高手，都能在这里找到乐趣。
 
-Dans le jeu, le joueur par lancer de jetons, aussi longtemps que son adversaire de points de plus et ne dépasse pas le blackjack, peut obtenir des jetons de bonus!
+游戏中，玩家通过投掷筹码，只要自己的点数超过对手并且没有超过二十一点，即可获取筹码奖励哦！
 
+
+![Alt text](https://github.com/appdev-supports/ClassicPoker-BlackJack21/blob/appdev-supports-patch-1/IMG01.jpg)
 
 ![Alt text](https://github.com/appdev-supports/ClassicPoker-BlackJack21/blob/appdev-supports-patch-1/IMG02.jpg)
 
